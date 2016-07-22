@@ -1,6 +1,6 @@
 PROJECT = infinity
 
-TMK_DIR = ../../tmk_core
+TMK_DIR = ./tmk_core
 MBED_DIR = $(TMK_DIR)/tool/mbed/mbed-sdk
 
 VPATH += $(TMK_DIR):$(MBED_DIR)
